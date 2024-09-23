@@ -3,7 +3,12 @@
 
 ## Overview
 
+![Captura de pantalla 2024-09-23 215659](https://github.com/user-attachments/assets/fdd6ec64-23a7-4893-b4b4-4f77e39d7dac)
+
+
 This repository contains a Unity project built for WebGL, designed to be embedded within the DAO Ashe framework. The project showcases immersive 3D environments and interactive elements that align with the goals of the DAO.
+
+
 
 ## Getting Started
 
