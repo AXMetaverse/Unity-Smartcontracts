@@ -3,12 +3,9 @@
 
 ## Overview
 
-![Captura de pantalla 2024-09-23 215659](https://github.com/user-attachments/assets/fdd6ec64-23a7-4893-b4b4-4f77e39d7dac)
-
+![Captura de pantalla 2024-09-24 095306](https://github.com/user-attachments/assets/178ae337-9a28-4b66-b9cb-515dabe410d4)
 
 This repository contains a Unity project built for WebGL, designed to be embedded within the DAO Ashe framework. The project showcases immersive 3D environments and interactive elements that align with the goals of the DAO.
-
-
 
 ## Getting Started
 
@@ -23,7 +20,7 @@ Copiar código
 cd AXMetaverse/webgl
 Open the index.html file in a web browser to run the project locally.
 Deployment
-This project is hosted on GitHub Pages.
+This project is hosted on GitHub Pages and www.axmc.xyz/metaverse.
 
 ## Features
 1. Immersive 3D environments
